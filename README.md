@@ -1,2 +1,2 @@
 # Snake-Game
-This is a old school snake game 
+This is an old school snake game 
